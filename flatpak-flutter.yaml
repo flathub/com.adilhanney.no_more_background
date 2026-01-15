@@ -56,7 +56,7 @@ modules:
         aarch64:
           env:
             BUNDLE_PATH: build/linux/arm64/release/bundle
-      append-path: /usr/lib/sdk/llvm20/bin:/run/build/no_more_background/flutter/bin
+      append-path: /usr/lib/sdk/llvm20/bin:/run/build/no_more_background/submodules/flutter/bin
       prepend-ld-library-path: /usr/lib/sdk/llvm20/lib
       env:
         PUB_CACHE: /run/build/no_more_background/.pub-cache
@@ -71,16 +71,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/adil192/no_more_background.git
-        tag: v1.0.2+2
-        commit: 6af5e156568987032bf351b161ed0b53f4874e67
+        tag: v1.0.3
+        commit: a29c5f5ee3c37666cc5b43cfa907fe2000f1e19b
         x-checker-data:
           type: git
           tag-pattern: ^v([\d.]+(?:\+.*)?)$
-      # Hopefully we will be able to use `submodules/flutter` in the future
-      # but for now we have to clone manually to `./flutter`:
-      # https://github.com/TheAppgineer/flatpak-flutter/issues/74
-      - type: git
-        url: https://github.com/flutter/flutter.git
-        tag: 3.38.4
-        commit: 66dd93f9a27ffe2a9bfc8297506ce066ff51265f
-        dest: flutter
