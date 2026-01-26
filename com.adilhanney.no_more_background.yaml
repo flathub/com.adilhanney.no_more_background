@@ -74,8 +74,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/adil192/no_more_background.git
-        tag: v1.1.0+1
-        commit: 10d307c5a85e7f633eabba425bbaecaf69bd21ad
+        tag: v1.2.0
+        commit: fe31d3652b85d5e5854b5c6dbb3c6dd0f40b03a3
         x-checker-data:
           type: git
           tag-pattern: ^v([\d.]+(?:\+.*)?)$
