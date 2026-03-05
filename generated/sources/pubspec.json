@@ -212,6 +212,20 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/flutter_context_menu-0.4.2.tar.gz",
+        "sha256": "7040c03fb9cb2a113282d836edadf32b6cdff67cccdf3d158e7411ecc15d7712",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/flutter_context_menu-0.4.2"
+    },
+    {
+        "type": "inline",
+        "contents": "7040c03fb9cb2a113282d836edadf32b6cdff67cccdf3d158e7411ecc15d7712",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "flutter_context_menu-0.4.2.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
         "url": "https://pub.dev/api/archives/flutter_hooks-0.21.3+1.tar.gz",
         "sha256": "8ae1f090e5f4ef5cfa6670ce1ab5dddadd33f3533a7f9ba19d9f958aa2a89f42",
         "strip-components": 0,
