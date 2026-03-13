@@ -55,7 +55,7 @@ jobs:
 
       - name: Create Pull Request
         if: steps.update_found.outputs.update_found == 'true'
-        uses: peter-evans/create-pull-request@v7
+        uses: peter-evans/create-pull-request@v8
         env:
           SUMMARY: "Update NoMoreBackground to ${{ env.APP_VERSION }}"
         with:
