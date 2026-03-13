@@ -114,6 +114,34 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/checked_yaml-2.0.4.tar.gz",
+        "sha256": "959525d3162f249993882720d52b7e0c833978df229be20702b33d48d91de70f",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/checked_yaml-2.0.4"
+    },
+    {
+        "type": "inline",
+        "contents": "959525d3162f249993882720d52b7e0c833978df229be20702b33d48d91de70f",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "checked_yaml-2.0.4.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/cli_util-0.4.2.tar.gz",
+        "sha256": "ff6785f7e9e3c38ac98b2fb035701789de90154024a75b6cb926445e83197d1c",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/cli_util-0.4.2"
+    },
+    {
+        "type": "inline",
+        "contents": "ff6785f7e9e3c38ac98b2fb035701789de90154024a75b6cb926445e83197d1c",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "cli_util-0.4.2.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
         "url": "https://pub.dev/api/archives/clock-1.1.2.tar.gz",
         "sha256": "fddb70d9b5277016c77a80201021d40a2247104d9f4aa7bab7157b7e3f05b84b",
         "strip-components": 0,
@@ -268,6 +296,20 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/flutter_launcher_icons-0.14.4.tar.gz",
+        "sha256": "10f13781741a2e3972126fae08393d3c4e01fa4cd7473326b94b72cf594195e7",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/flutter_launcher_icons-0.14.4"
+    },
+    {
+        "type": "inline",
+        "contents": "10f13781741a2e3972126fae08393d3c4e01fa4cd7473326b94b72cf594195e7",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "flutter_launcher_icons-0.14.4.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
         "url": "https://pub.dev/api/archives/flutter_lints-6.0.0.tar.gz",
         "sha256": "3105dc8492f6183fb076ccf1f351ac3d60564bff92e20bfc4af9cc1651f4e7e1",
         "strip-components": 0,
@@ -348,20 +390,6 @@
         "contents": "178d74305e7866013777bab2c3d8726205dc5a4dd935297175b19a23a2e66571",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
         "dest-filename": "http_parser-4.1.2.sha256"
-    },
-    {
-        "type": "archive",
-        "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/icons_launcher-3.0.3.tar.gz",
-        "sha256": "6317d56a73ee528f1dd570d7cd7be120ce58014e0fe635d141ada3d88782f58d",
-        "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/icons_launcher-3.0.3"
-    },
-    {
-        "type": "inline",
-        "contents": "6317d56a73ee528f1dd570d7cd7be120ce58014e0fe635d141ada3d88782f58d",
-        "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "icons_launcher-3.0.3.sha256"
     },
     {
         "type": "archive",
@@ -912,6 +940,20 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/shizuku_api-1.2.2.tar.gz",
+        "sha256": "0d77e9dd4aac6b2c1a5fa3af47f3d4489e2606e08864c7b55d0c7cf0bac39fd1",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/shizuku_api-1.2.2"
+    },
+    {
+        "type": "inline",
+        "contents": "0d77e9dd4aac6b2c1a5fa3af47f3d4489e2606e08864c7b55d0c7cf0bac39fd1",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "shizuku_api-1.2.2.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
         "url": "https://pub.dev/api/archives/source_span-1.10.2.tar.gz",
         "sha256": "56a02f1f4cd1a2d96303c0144c93bd6d909eea6bee6bf5a0e0b685edbd4c47ab",
         "strip-components": 0,
@@ -1076,20 +1118,6 @@
         "contents": "f9049c039ebfeb4cf7a7104a675823cd72dba8297f264b6637062516699fa006",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
         "dest-filename": "typed_data-1.4.0.sha256"
-    },
-    {
-        "type": "archive",
-        "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/universal_io-2.3.1.tar.gz",
-        "sha256": "f63cbc48103236abf48e345e07a03ce5757ea86285ed313a6a032596ed9301e2",
-        "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/universal_io-2.3.1"
-    },
-    {
-        "type": "inline",
-        "contents": "f63cbc48103236abf48e345e07a03ce5757ea86285ed313a6a032596ed9301e2",
-        "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "universal_io-2.3.1.sha256"
     },
     {
         "type": "archive",
@@ -1510,20 +1538,6 @@
         "contents": "426cf75afdb23aa74bd4e471704de3f9393f3c7b04c1e2d9c6f1073ae0b8b139",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
         "dest-filename": "built_value-8.12.1.sha256"
-    },
-    {
-        "type": "archive",
-        "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/checked_yaml-2.0.4.tar.gz",
-        "sha256": "959525d3162f249993882720d52b7e0c833978df229be20702b33d48d91de70f",
-        "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/checked_yaml-2.0.4"
-    },
-    {
-        "type": "inline",
-        "contents": "959525d3162f249993882720d52b7e0c833978df229be20702b33d48d91de70f",
-        "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "checked_yaml-2.0.4.sha256"
     },
     {
         "type": "archive",
