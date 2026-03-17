@@ -408,6 +408,20 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/ini-2.1.0.tar.gz",
+        "sha256": "12a76c53591ffdf86d1265be3f986888a6dfeb34a85957774bc65912d989a173",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/ini-2.1.0"
+    },
+    {
+        "type": "inline",
+        "contents": "12a76c53591ffdf86d1265be3f986888a6dfeb34a85957774bc65912d989a173",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "ini-2.1.0.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
         "url": "https://pub.dev/api/archives/irondash_engine_context-0.5.5.tar.gz",
         "sha256": "2bb0bc13dfda9f5aaef8dde06ecc5feb1379f5bb387d59716d799554f3f305d7",
         "strip-components": 0,
