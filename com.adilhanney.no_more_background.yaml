@@ -14,6 +14,7 @@ finish-args:
   - --socket=fallback-x11
   - --socket=wayland
   - --device=all
+  - --filesystem=xdg-config/kdeglobals:ro
 modules:
   - name: protobuf
     buildsystem: simple
@@ -76,8 +77,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/adil192/no_more_background.git
-        tag: v2.1.0
-        commit: 53568e57feccb62e2816df62c493a5b287d75e49
+        tag: v2.1.1
+        commit: 7e7f9f69f5c3c2f164eb383e1d2d9ee13db7250d
         x-checker-data:
           type: git
           tag-pattern: ^v([\d.]+(?:\+.*)?)$
