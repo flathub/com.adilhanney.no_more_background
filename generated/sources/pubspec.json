@@ -478,6 +478,20 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/junitify-0.1.2.tar.gz",
+        "sha256": "c946a70137b34bef724d9687dcfe6c205ee58e7f1be1c5ec4e3db9bc52478ada",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/junitify-0.1.2"
+    },
+    {
+        "type": "inline",
+        "contents": "c946a70137b34bef724d9687dcfe6c205ee58e7f1be1c5ec4e3db9bc52478ada",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "junitify-0.1.2.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
         "url": "https://pub.dev/api/archives/leak_tracker-11.0.2.tar.gz",
         "sha256": "33e2e26bdd85a0112ec15400c8cbffea70d0f9c3407491f672a2fad47915e2de",
         "strip-components": 0,
