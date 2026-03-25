@@ -226,6 +226,20 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/dynamic_color-1.8.1.tar.gz",
+        "sha256": "43a5a6679649a7731ab860334a5812f2067c2d9ce6452cf069c5e0c25336c17c",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/dynamic_color-1.8.1"
+    },
+    {
+        "type": "inline",
+        "contents": "43a5a6679649a7731ab860334a5812f2067c2d9ce6452cf069c5e0c25336c17c",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "dynamic_color-1.8.1.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
         "url": "https://pub.dev/api/archives/dynamic_yaru-0.1.0.tar.gz",
         "sha256": "b748f4b20a29125108888bcd76432abd6abd77360bd444b399a7acd3b4137132",
         "strip-components": 0,
