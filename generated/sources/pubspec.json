@@ -72,16 +72,16 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/async-2.13.0.tar.gz",
-        "sha256": "758e6d74e971c3e5aceb4110bfd6698efc7f501675bcfe0c775459a8140750eb",
+        "url": "https://pub.dev/api/archives/async-2.13.1.tar.gz",
+        "sha256": "e2eb0491ba5ddb6177742d2da23904574082139b07c1e33b8503b9f46f3e1a37",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/async-2.13.0"
+        "dest": ".pub-cache/hosted/pub.dev/async-2.13.1"
     },
     {
         "type": "inline",
-        "contents": "758e6d74e971c3e5aceb4110bfd6698efc7f501675bcfe0c775459a8140750eb",
+        "contents": "e2eb0491ba5ddb6177742d2da23904574082139b07c1e33b8503b9f46f3e1a37",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "async-2.13.0.sha256"
+        "dest-filename": "async-2.13.1.sha256"
     },
     {
         "type": "archive",
@@ -446,6 +446,20 @@
         "contents": "12a76c53591ffdf86d1265be3f986888a6dfeb34a85957774bc65912d989a173",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
         "dest-filename": "ini-2.1.0.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/intl-0.20.2.tar.gz",
+        "sha256": "3df61194eb431efc39c4ceba583b95633a403f46c9fd341e550ce0bfa50e9aa5",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/intl-0.20.2"
+    },
+    {
+        "type": "inline",
+        "contents": "3df61194eb431efc39c4ceba583b95633a403f46c9fd341e550ce0bfa50e9aa5",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "intl-0.20.2.sha256"
     },
     {
         "type": "archive",
@@ -912,30 +926,44 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/shared_preferences-2.5.4.tar.gz",
-        "sha256": "2939ae520c9024cb197fc20dee269cd8cdbf564c8b5746374ec6cacdc5169e64",
+        "url": "https://pub.dev/api/archives/serial_csv-0.5.2.tar.gz",
+        "sha256": "2d62bb70cb3ce7251383fc86ea9aae1298ab1e57af6ef4e93b6a9751c5c268dd",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/shared_preferences-2.5.4"
+        "dest": ".pub-cache/hosted/pub.dev/serial_csv-0.5.2"
     },
     {
         "type": "inline",
-        "contents": "2939ae520c9024cb197fc20dee269cd8cdbf564c8b5746374ec6cacdc5169e64",
+        "contents": "2d62bb70cb3ce7251383fc86ea9aae1298ab1e57af6ef4e93b6a9751c5c268dd",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "shared_preferences-2.5.4.sha256"
+        "dest-filename": "serial_csv-0.5.2.sha256"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/shared_preferences_android-2.4.21.tar.gz",
-        "sha256": "8374d6200ab33ac99031a852eba4c8eb2170c4bf20778b3e2c9eccb45384fb41",
+        "url": "https://pub.dev/api/archives/shared_preferences-2.5.5.tar.gz",
+        "sha256": "c3025c5534b01739267eb7d76959bbc25a6d10f6988e1c2a3036940133dd10bf",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/shared_preferences_android-2.4.21"
+        "dest": ".pub-cache/hosted/pub.dev/shared_preferences-2.5.5"
     },
     {
         "type": "inline",
-        "contents": "8374d6200ab33ac99031a852eba4c8eb2170c4bf20778b3e2c9eccb45384fb41",
+        "contents": "c3025c5534b01739267eb7d76959bbc25a6d10f6988e1c2a3036940133dd10bf",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "shared_preferences_android-2.4.21.sha256"
+        "dest-filename": "shared_preferences-2.5.5.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/shared_preferences_android-2.4.23.tar.gz",
+        "sha256": "e8d4762b1e2e8578fc4d0fd548cebf24afd24f49719c08974df92834565e2c53",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/shared_preferences_android-2.4.23"
+    },
+    {
+        "type": "inline",
+        "contents": "e8d4762b1e2e8578fc4d0fd548cebf24afd24f49719c08974df92834565e2c53",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "shared_preferences_android-2.4.23.sha256"
     },
     {
         "type": "archive",
@@ -968,16 +996,16 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/shared_preferences_platform_interface-2.4.1.tar.gz",
-        "sha256": "57cbf196c486bc2cf1f02b85784932c6094376284b3ad5779d1b1c6c6a816b80",
+        "url": "https://pub.dev/api/archives/shared_preferences_platform_interface-2.4.2.tar.gz",
+        "sha256": "649dc798a33931919ea356c4305c2d1f81619ea6e92244070b520187b5140ef9",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/shared_preferences_platform_interface-2.4.1"
+        "dest": ".pub-cache/hosted/pub.dev/shared_preferences_platform_interface-2.4.2"
     },
     {
         "type": "inline",
-        "contents": "57cbf196c486bc2cf1f02b85784932c6094376284b3ad5779d1b1c6c6a816b80",
+        "contents": "649dc798a33931919ea356c4305c2d1f81619ea6e92244070b520187b5140ef9",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "shared_preferences_platform_interface-2.4.1.sha256"
+        "dest-filename": "shared_preferences_platform_interface-2.4.2.sha256"
     },
     {
         "type": "archive",
@@ -1020,6 +1048,34 @@
         "contents": "0d77e9dd4aac6b2c1a5fa3af47f3d4489e2606e08864c7b55d0c7cf0bac39fd1",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
         "dest-filename": "shizuku_api-1.2.2.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/slang-4.14.0.tar.gz",
+        "sha256": "ea6702ed6b1c82065fb2de906fe34ac9298117342e3c2ea2567132efdc81bd17",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/slang-4.14.0"
+    },
+    {
+        "type": "inline",
+        "contents": "ea6702ed6b1c82065fb2de906fe34ac9298117342e3c2ea2567132efdc81bd17",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "slang-4.14.0.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/slang_flutter-4.14.0.tar.gz",
+        "sha256": "dcc4e77527c91b12348fc8bdd43d3eb92d8cea37c12a23a1f9719cdc12c804c6",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/slang_flutter-4.14.0"
+    },
+    {
+        "type": "inline",
+        "contents": "dcc4e77527c91b12348fc8bdd43d3eb92d8cea37c12a23a1f9719cdc12c804c6",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "slang_flutter-4.14.0.sha256"
     },
     {
         "type": "archive",
@@ -1206,16 +1262,16 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/url_launcher_android-6.3.28.tar.gz",
-        "sha256": "767344bf3063897b5cf0db830e94f904528e6dd50a6dfaf839f0abf509009611",
+        "url": "https://pub.dev/api/archives/url_launcher_android-6.3.29.tar.gz",
+        "sha256": "3bb000251e55d4a209aa0e2e563309dc9bb2befea2295fd0cec1f51760aac572",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/url_launcher_android-6.3.28"
+        "dest": ".pub-cache/hosted/pub.dev/url_launcher_android-6.3.29"
     },
     {
         "type": "inline",
-        "contents": "767344bf3063897b5cf0db830e94f904528e6dd50a6dfaf839f0abf509009611",
+        "contents": "3bb000251e55d4a209aa0e2e563309dc9bb2befea2295fd0cec1f51760aac572",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "url_launcher_android-6.3.28.sha256"
+        "dest-filename": "url_launcher_android-6.3.29.sha256"
     },
     {
         "type": "archive",
@@ -1342,6 +1398,20 @@
         "contents": "45caa6c5917fa127b5dbcfbd1fa60b14e583afdc08bfc96dda38886ca252eb60",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
         "dest-filename": "vm_service-15.0.2.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/watcher-1.2.1.tar.gz",
+        "sha256": "1398c9f081a753f9226febe8900fce8f7d0a67163334e1c94a2438339d79d635",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/watcher-1.2.1"
+    },
+    {
+        "type": "inline",
+        "contents": "1398c9f081a753f9226febe8900fce8f7d0a67163334e1c94a2438339d79d635",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "watcher-1.2.1.sha256"
     },
     {
         "type": "archive",
@@ -1566,6 +1636,20 @@
         "contents": "cb6a278ef2dbb298455e1a713bda08524a175630ec643a242c399c932a0a1f7d",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
         "dest-filename": "archive-3.6.1.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/async-2.13.0.tar.gz",
+        "sha256": "758e6d74e971c3e5aceb4110bfd6698efc7f501675bcfe0c775459a8140750eb",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/async-2.13.0"
+    },
+    {
+        "type": "inline",
+        "contents": "758e6d74e971c3e5aceb4110bfd6698efc7f501675bcfe0c775459a8140750eb",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "async-2.13.0.sha256"
     },
     {
         "type": "archive",
@@ -1986,20 +2070,6 @@
         "contents": "aa6199f908078bb1c5efb8d8638d4ae191aac11b311132c3ef48ce352fb52ef8",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
         "dest-filename": "http_multi_server-3.2.2.sha256"
-    },
-    {
-        "type": "archive",
-        "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/intl-0.20.2.tar.gz",
-        "sha256": "3df61194eb431efc39c4ceba583b95633a403f46c9fd341e550ce0bfa50e9aa5",
-        "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/intl-0.20.2"
-    },
-    {
-        "type": "inline",
-        "contents": "3df61194eb431efc39c4ceba583b95633a403f46c9fd341e550ce0bfa50e9aa5",
-        "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "intl-0.20.2.sha256"
     },
     {
         "type": "archive",
