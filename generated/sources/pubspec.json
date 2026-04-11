@@ -128,6 +128,20 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/cli_config-0.2.0.tar.gz",
+        "sha256": "ac20a183a07002b700f0c25e61b7ee46b23c309d76ab7b7640a028f18e4d99ec",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/cli_config-0.2.0"
+    },
+    {
+        "type": "inline",
+        "contents": "ac20a183a07002b700f0c25e61b7ee46b23c309d76ab7b7640a028f18e4d99ec",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "cli_config-0.2.0.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
         "url": "https://pub.dev/api/archives/cli_util-0.4.2.tar.gz",
         "sha256": "ff6785f7e9e3c38ac98b2fb035701789de90154024a75b6cb926445e83197d1c",
         "strip-components": 0,
@@ -506,6 +520,34 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/jni-1.0.0.tar.gz",
+        "sha256": "c2230682d5bc2362c1c9e8d3c7f406d9cbba23ab3f2e203a025dd47e0fb2e68f",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/jni-1.0.0"
+    },
+    {
+        "type": "inline",
+        "contents": "c2230682d5bc2362c1c9e8d3c7f406d9cbba23ab3f2e203a025dd47e0fb2e68f",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "jni-1.0.0.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/jnigen-0.16.0.tar.gz",
+        "sha256": "6079cbd103ac24892f597af5be17c43f817b93cb25acb3b51197684f0b102e87",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/jnigen-0.16.0"
+    },
+    {
+        "type": "inline",
+        "contents": "6079cbd103ac24892f597af5be17c43f817b93cb25acb3b51197684f0b102e87",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "jnigen-0.16.0.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
         "url": "https://pub.dev/api/archives/json_annotation-4.11.0.tar.gz",
         "sha256": "cb09e7dac6210041fad964ed7fbee004f14258b4eca4040f72d1234062ace4c8",
         "strip-components": 0,
@@ -688,6 +730,20 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/package_config-2.2.0.tar.gz",
+        "sha256": "f096c55ebb7deb7e384101542bfba8c52696c1b56fca2eb62827989ef2353bbc",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/package_config-2.2.0"
+    },
+    {
+        "type": "inline",
+        "contents": "f096c55ebb7deb7e384101542bfba8c52696c1b56fca2eb62827989ef2353bbc",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "package_config-2.2.0.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
         "url": "https://pub.dev/api/archives/package_info_plus-9.0.0.tar.gz",
         "sha256": "f69da0d3189a4b4ceaeb1a3defb0f329b3b352517f52bed4290f83d4f06bc08d",
         "strip-components": 0,
@@ -866,6 +922,20 @@
         "contents": "185ef7606574f789b40f289c233efa52e96dead518aed988e040a10737febb07",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
         "dest-filename": "posix-6.5.0.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/pub_semver-2.2.0.tar.gz",
+        "sha256": "5bfcf68ca79ef689f8990d1160781b4bad40a3bd5e5218ad4076ddb7f4081585",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/pub_semver-2.2.0"
+    },
+    {
+        "type": "inline",
+        "contents": "5bfcf68ca79ef689f8990d1160781b4bad40a3bd5e5218ad4076ddb7f4081585",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "pub_semver-2.2.0.sha256"
     },
     {
         "type": "archive",
@@ -1752,20 +1822,6 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/cli_config-0.2.0.tar.gz",
-        "sha256": "ac20a183a07002b700f0c25e61b7ee46b23c309d76ab7b7640a028f18e4d99ec",
-        "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/cli_config-0.2.0"
-    },
-    {
-        "type": "inline",
-        "contents": "ac20a183a07002b700f0c25e61b7ee46b23c309d76ab7b7640a028f18e4d99ec",
-        "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "cli_config-0.2.0.sha256"
-    },
-    {
-        "type": "archive",
-        "archive-type": "tar-gzip",
         "url": "https://pub.dev/api/archives/code_assets-1.0.0.tar.gz",
         "sha256": "83ccdaa064c980b5596c35dd64a8d3ecc68620174ab9b90b6343b753aa721687",
         "strip-components": 0,
@@ -2256,20 +2312,6 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/package_config-2.2.0.tar.gz",
-        "sha256": "f096c55ebb7deb7e384101542bfba8c52696c1b56fca2eb62827989ef2353bbc",
-        "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/package_config-2.2.0"
-    },
-    {
-        "type": "inline",
-        "contents": "f096c55ebb7deb7e384101542bfba8c52696c1b56fca2eb62827989ef2353bbc",
-        "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "package_config-2.2.0.sha256"
-    },
-    {
-        "type": "archive",
-        "archive-type": "tar-gzip",
         "url": "https://pub.dev/api/archives/petitparser-7.0.1.tar.gz",
         "sha256": "1a97266a94f7350d30ae522c0af07890c70b8e62c71e8e3920d1db4d23c057d1",
         "strip-components": 0,
@@ -2308,20 +2350,6 @@
         "contents": "c6248e4526673988586e8c00bb22a49210c258dc91df5227d5da9748ecf79744",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
         "dest-filename": "process-5.0.5.sha256"
-    },
-    {
-        "type": "archive",
-        "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/pub_semver-2.2.0.tar.gz",
-        "sha256": "5bfcf68ca79ef689f8990d1160781b4bad40a3bd5e5218ad4076ddb7f4081585",
-        "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/pub_semver-2.2.0"
-    },
-    {
-        "type": "inline",
-        "contents": "5bfcf68ca79ef689f8990d1160781b4bad40a3bd5e5218ad4076ddb7f4081585",
-        "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "pub_semver-2.2.0.sha256"
     },
     {
         "type": "archive",
