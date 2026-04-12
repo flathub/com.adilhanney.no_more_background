@@ -576,6 +576,20 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/l10n_languages-2.0.2.tar.gz",
+        "sha256": "16b0026dc7261a712d3176595e7622138dace92e9cf1efc00989ef45b47725dd",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/l10n_languages-2.0.2"
+    },
+    {
+        "type": "inline",
+        "contents": "16b0026dc7261a712d3176595e7622138dace92e9cf1efc00989ef45b47725dd",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "l10n_languages-2.0.2.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
         "url": "https://pub.dev/api/archives/leak_tracker-11.0.2.tar.gz",
         "sha256": "33e2e26bdd85a0112ec15400c8cbffea70d0f9c3407491f672a2fad47915e2de",
         "strip-components": 0,
@@ -1006,6 +1020,20 @@
         "contents": "449ee257f03ca98a57288ee526a301a430a344a161f9202b4fcc38576716fe13",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
         "dest-filename": "screen_retriever_windows-0.2.0.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/sealed_languages-3.1.0.tar.gz",
+        "sha256": "8e1d71f5bf0dc647bd9bc327089625d4d11576fe69df5e8b3a39f87ab1872568",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/sealed_languages-3.1.0"
+    },
+    {
+        "type": "inline",
+        "contents": "8e1d71f5bf0dc647bd9bc327089625d4d11576fe69df5e8b3a39f87ab1872568",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "sealed_languages-3.1.0.sha256"
     },
     {
         "type": "archive",
