@@ -688,16 +688,16 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/material_symbols_icons-4.2906.0.tar.gz",
-        "sha256": "c62b15f2b3de98d72cbff0148812f5ef5159f05e61fc9f9a089ec2bb234df082",
+        "url": "https://pub.dev/api/archives/material_symbols_icons-4.2928.1.tar.gz",
+        "sha256": "10a74aaa9e566c92f8aa14809d2dd78156fb93743348ebffec0345c38eb35706",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/material_symbols_icons-4.2906.0"
+        "dest": ".pub-cache/hosted/pub.dev/material_symbols_icons-4.2928.1"
     },
     {
         "type": "inline",
-        "contents": "c62b15f2b3de98d72cbff0148812f5ef5159f05e61fc9f9a089ec2bb234df082",
+        "contents": "10a74aaa9e566c92f8aa14809d2dd78156fb93743348ebffec0345c38eb35706",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "material_symbols_icons-4.2906.0.sha256"
+        "dest-filename": "material_symbols_icons-4.2928.1.sha256"
     },
     {
         "type": "archive",
@@ -758,16 +758,16 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/package_info_plus-9.0.0.tar.gz",
-        "sha256": "f69da0d3189a4b4ceaeb1a3defb0f329b3b352517f52bed4290f83d4f06bc08d",
+        "url": "https://pub.dev/api/archives/package_info_plus-9.0.1.tar.gz",
+        "sha256": "468c26b4254ab01979fa5e4a98cb343ea3631b9acee6f21028997419a80e1a20",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/package_info_plus-9.0.0"
+        "dest": ".pub-cache/hosted/pub.dev/package_info_plus-9.0.1"
     },
     {
         "type": "inline",
-        "contents": "f69da0d3189a4b4ceaeb1a3defb0f329b3b352517f52bed4290f83d4f06bc08d",
+        "contents": "468c26b4254ab01979fa5e4a98cb343ea3631b9acee6f21028997419a80e1a20",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "package_info_plus-9.0.0.sha256"
+        "dest-filename": "package_info_plus-9.0.1.sha256"
     },
     {
         "type": "archive",
@@ -1486,16 +1486,16 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/vector_graphics-1.1.20.tar.gz",
-        "sha256": "7076216a10d5c390315fbe536a30f1254c341e7543e6c4c8a815e591307772b1",
+        "url": "https://pub.dev/api/archives/vector_graphics-1.1.21.tar.gz",
+        "sha256": "81da85e9ca8885ade47f9685b953cb098970d11be4821ac765580a6607ea4373",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/vector_graphics-1.1.20"
+        "dest": ".pub-cache/hosted/pub.dev/vector_graphics-1.1.21"
     },
     {
         "type": "inline",
-        "contents": "7076216a10d5c390315fbe536a30f1254c341e7543e6c4c8a815e591307772b1",
+        "contents": "81da85e9ca8885ade47f9685b953cb098970d11be4821ac765580a6607ea4373",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "vector_graphics-1.1.20.sha256"
+        "dest-filename": "vector_graphics-1.1.21.sha256"
     },
     {
         "type": "archive",
