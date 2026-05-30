@@ -77,8 +77,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/adil192/no_more_background.git
-        tag: v2.5.0
-        commit: 8b8134b012ac0602d819477c7be20400d6a07d01
+        tag: v2.6.0
+        commit: e612db3f5f0a7ba2bbc0b2684b34037def689766
         x-checker-data:
           type: git
           tag-pattern: ^v([\d.]+(?:\+.*)?)$
@@ -86,4 +86,4 @@ modules:
       - generated/sources/pubspec.json
     modules:
       - generated/modules/rustup-1.94.0.json
-      - generated/modules/flutter-sdk-3.41.8.json
+      - generated/modules/flutter-sdk-3.44.0.json
