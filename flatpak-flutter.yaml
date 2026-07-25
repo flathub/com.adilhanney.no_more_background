@@ -76,3 +76,5 @@ modules:
         x-checker-data:
           type: git
           tag-pattern: ^v([\d.]+(?:\+.*)?)$
+    modules:
+      - generated/modules/rustup-1.97.1.json
