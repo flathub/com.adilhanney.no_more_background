@@ -66,7 +66,6 @@ modules:
         CARGO_HOME: /run/build/no_more_background/cargo
         RUSTUP_HOME: /var/lib/rustup
     build-commands:
-      - ./patches/remove_dev_dependencies.sh
       - setup-flutter.sh
       - flutter config --no-cli-animations
       - flutter build linux --no-pub

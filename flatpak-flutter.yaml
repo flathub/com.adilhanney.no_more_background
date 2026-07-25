@@ -62,7 +62,6 @@ modules:
       env:
         PUB_CACHE: /run/build/no_more_background/.pub-cache
     build-commands:
-      - ./patches/remove_dev_dependencies.sh
       - flutter config --no-cli-animations
       - flutter build linux --no-pub
       - cp -a ${BUNDLE_PATH}/. /app/bin/
