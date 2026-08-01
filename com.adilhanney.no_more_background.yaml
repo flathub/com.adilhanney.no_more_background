@@ -80,8 +80,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/adil192/no_more_background.git
-        tag: v2.8.0
-        commit: 227b197ccd488a52b5a8b1847525b45bacb45ac5
+        tag: v2.8.2
+        commit: 75aa21dc7a32f15f6709406d0d71c70e2a220d56
         x-checker-data:
           type: git
           tag-pattern: ^v([\d.]+(?:\+.*)?)$
