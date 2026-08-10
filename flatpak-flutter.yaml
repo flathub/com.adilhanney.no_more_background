@@ -40,13 +40,13 @@ modules:
       - type: archive
         only-arches:
           - x86_64
-        url: https://kojipkgs.fedoraproject.org/packages/android-tools/35.0.2/10.fc43/x86_64/android-tools-35.0.2-10.fc43.x86_64.rpm
-        sha256: 5533f75267feacb6ecfb2fb784f423ec21c0c0d8f4aa4d5784f7734b7877af63
+        url: https://kojipkgs.fedoraproject.org/packages/android-tools/37.0.0/3.fc44/x86_64/android-tools-37.0.0-3.fc44.x86_64.rpm
+        sha256: 09f4c188a0e9f5b621144b153cc3a865bae5d055ec2ec631e29b1f426b2a0b0b
       - type: archive
         only-arches:
           - aarch64
-        url: https://kojipkgs.fedoraproject.org/packages/android-tools/35.0.2/10.fc43/aarch64/android-tools-35.0.2-10.fc43.aarch64.rpm
-        sha256: 8287ae578a8bdf1aa7224c30f7c5ec3e08060f38b7265f9368d7940213ca6b35
+        url: https://kojipkgs.fedoraproject.org/packages/android-tools/37.0.0/3.fc44/aarch64/android-tools-37.0.0-3.fc44.aarch64.rpm
+        sha256: 531cd1ad0ff7ac36badc2396a561a912977d6a5934853522e728531c1c1f0003
   - name: no_more_background
     buildsystem: simple
     build-options:
